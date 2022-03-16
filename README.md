@@ -37,7 +37,6 @@ A aplicação consiste em uma página web com a listagem de alguns filmes. A pá
 - Front end web: Netlify
 - Banco de dados: Postgresql
 
-
 # Autor
 
 Matheus Maia Alvarez
