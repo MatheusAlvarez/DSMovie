@@ -5,9 +5,9 @@
 # Sobre o projeto
 https://matheus-maia-alvarez-dsmovie.netlify.app/
 
-DSMovie é uma aplicação full stack web e mobile construída durante a **Semana Spring React**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSMovie is a full stack web and mobile application built during the **Spring React Week**, an event organized by [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma página web com a listagem de alguns filmes. A página permite a interação dos usuários através das avaliações dos filmes listados no app web. 
+The application consists of a web page with a list of some movies. The page allows user interaction through ratings of movies listed in the web app.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/MatheusAlvarez/DSMovie/blob/main/_assets/mobile1.png) ![Mobile 2](https://github.com/MatheusAlvarez/DSMovie/blob/main/_assets/mobile2.png)
@@ -18,10 +18,10 @@ A aplicação consiste em uma página web com a listagem de alguns filmes. A pá
 ![Web3](https://github.com/MatheusAlvarez/DSMovie/blob/main/_assets/web3.png)
 ![Web3](https://github.com/MatheusAlvarez/DSMovie/blob/main/_assets/web4.png)
 
-## Modelo conceitual
+## Conceptual Model
 ![Modelo Conceitual](https://github.com/MatheusAlvarez/DSMovie/blob/main/_assets/MC.png)
 
-# Tecnologias utilizadas
+# Technologies used
 ## Back end
 - Java
 - Spring Boot
@@ -32,12 +32,12 @@ A aplicação consiste em uma página web com a listagem de alguns filmes. A pá
 - HTML
 - CSS
 
-## Implantação em produção
+## Deployment in production
 - Back end: Heroku
 - Front end web: Netlify
 - Banco de dados: Postgresql
 
-# Autor
+# Author
 Matheus Maia Alvarez
 
 https://br.linkedin.com/in/matheus-maia-alvarez-
