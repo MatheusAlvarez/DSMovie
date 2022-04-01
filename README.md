@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusAlvarez/DSMovie/blob/main/LICENSE) 
 
-# Sobre o projeto
+# About the project
 https://matheus-maia-alvarez-dsmovie.netlify.app/
 
 DSMovie is a full stack web and mobile application built during the **Spring React Week**, an event organized by [DevSuperior](https://devsuperior.com "Site da DevSuperior").
