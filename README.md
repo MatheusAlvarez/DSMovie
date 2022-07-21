@@ -13,7 +13,6 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
-
 ## 💻 Sobre o projeto
 
 DSMovie é um aplicativo móvel e web full stack criado durante a **Spring React Week**, um evento organizado pelo [DevSuperior](https://devsuperior.com "Site da DevSuperior").
